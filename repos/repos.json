@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "alooth-KernelSU-Baalam-release",
-      "repo": "https://github.com/LowTension/BAALAM_android_kernel_xiaomi_sm8250.git",
+      "repo": "https://github.com/LowTension/BAALAM_android_kernel_xiaomi_sm8250",
       "branch": "main",
       "device": "alioth",
       "defconfig": "alioth_defconfig"
